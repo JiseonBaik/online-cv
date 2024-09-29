@@ -13,7 +13,7 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: jiseonbaik@gmail.com
+    email: jiseonbaik@khu.ac.kr
     website: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
@@ -26,13 +26,10 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
